@@ -1,0 +1,218 @@
+# depslib dependency file v1.0
+1491208853 source:c:\users\nicolas\desktop\othello\main.cpp
+	"Plateau.h"
+	"jeu.h"
+
+1491209840 c:\users\nicolas\desktop\othello\plateau.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<conio.h>
+
+1491209907 source:c:\users\nicolas\desktop\othello\plateau.cpp
+	"Plateau.h"
+
+1491214596 source:c:\users\nicolas\desktop\othello\pion.cpp
+	"pion.h"
+
+1491208239 source:c:\users\nicolas\desktop\othello\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1491208239 c:\users\nicolas\desktop\othello\console.h
+	<iostream>
+
+1491235026 source:c:\users\nicolas\desktop\othello\jeu.cpp
+	"jeu.h"
+	"Plateau.h"
+
+1491234168 c:\users\nicolas\desktop\othello\jeu.h
+	<stdio.h>
+	<fstream>
+	"Plateau.h"
+	"console.h"
+
+1491207715 c:\users\nicolas\desktop\othello\pion.h
+
+1491315814 source:c:\users\nicolas\desktop\othellov1\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1491315814 c:\users\nicolas\desktop\othellov1\console.h
+	<iostream>
+
+1491395024 source:c:\users\nicolas\desktop\othellov1\jeu.cpp
+	"jeu.h"
+	"Plateau.h"
+
+1491315815 c:\users\nicolas\desktop\othellov1\jeu.h
+	<stdio.h>
+	<fstream>
+	"Plateau.h"
+	"console.h"
+
+1491315815 c:\users\nicolas\desktop\othellov1\plateau.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<conio.h>
+
+1491315889 source:c:\users\nicolas\desktop\othellov1\main.cpp
+	"Plateau.h"
+	"jeu.h"
+
+1491315815 source:c:\users\nicolas\desktop\othellov1\pion.cpp
+	"pion.h"
+
+1491315815 c:\users\nicolas\desktop\othellov1\pion.h
+
+1491315814 source:c:\users\nicolas\desktop\othellov2\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1491315814 c:\users\nicolas\desktop\othellov2\console.h
+	<iostream>
+
+1491468341 source:c:\users\nicolas\desktop\othellov2\main.cpp
+	"plateaujeu.h"
+	"jeu.h"
+
+1491467747 c:\users\nicolas\desktop\othellov2\plateau.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<conio.h>
+	"console.h"
+
+1491470823 c:\users\nicolas\desktop\othellov2\jeu.h
+	<stdio.h>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"plateaujeu.h"
+	"console.h"
+
+1491467690 source:c:\users\nicolas\desktop\othellov2\pion.cpp
+	"pion.h"
+
+1491467313 c:\users\nicolas\desktop\othellov2\pion.h
+	"console.h"
+
+1491471828 source:c:\users\nicolas\desktop\othellov2\jeu.cpp
+	"jeu.h"
+	"plateaujeu.h"
+
+1491468807 source:c:\users\nicolas\desktop\othellov2\menu.cpp
+	"jeu.h"
+	"plateaujeu.h"
+
+1491467713 source:c:\users\nicolas\desktop\othellov2\plateau.cpp
+	"Plateau.h"
+
+1491472003 c:\users\nicolas\desktop\othellov2\plateaujeu.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<conio.h>
+	"console.h"
+	"pion.h"
+
+1491469418 source:c:\users\nicolas\desktop\othellov2\plateaujeu.cpp
+	"plateaujeu.h"
+
+1491315814 source:c:\users\nicolas\desktop\othellov3\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1491315814 c:\users\nicolas\desktop\othellov3\console.h
+	<iostream>
+
+1491468341 source:c:\users\nicolas\desktop\othellov3\main.cpp
+	"plateaujeu.h"
+	"jeu.h"
+
+1491489573 c:\users\nicolas\desktop\othellov3\plateaujeu.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<conio.h>
+	"console.h"
+	"pion.h"
+
+1491479543 c:\users\nicolas\desktop\othellov3\pion.h
+	"console.h"
+
+1491490351 c:\users\nicolas\desktop\othellov3\jeu.h
+	<stdio.h>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"plateaujeu.h"
+	"console.h"
+
+1491480290 source:c:\users\nicolas\desktop\othellov3\menu.cpp
+	"jeu.h"
+	"plateaujeu.h"
+
+1491478203 source:c:\users\nicolas\desktop\othellov3\pion.cpp
+	"pion.h"
+
+1491492286 source:c:\users\nicolas\desktop\othellov3\jeu.cpp
+	"jeu.h"
+	"plateaujeu.h"
+
+1491491701 source:c:\users\nicolas\desktop\othellov3\plateaujeu.cpp
+	"plateaujeu.h"
+
+1491315814 source:c:\users\uza\desktop\othellov3\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1491315814 c:\users\uza\desktop\othellov3\console.h
+	<iostream>
+
+1491580794 source:c:\users\uza\desktop\othellov3\jeu.cpp
+	"jeu.h"
+	"plateaujeu.h"
+
+1491490351 c:\users\uza\desktop\othellov3\jeu.h
+	<stdio.h>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"plateaujeu.h"
+	"console.h"
+
+1491579698 c:\users\uza\desktop\othellov3\plateaujeu.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<conio.h>
+	"console.h"
+	"pion.h"
+
+1491479543 c:\users\uza\desktop\othellov3\pion.h
+	"console.h"
+
+1491493330 source:c:\users\uza\desktop\othellov3\main.cpp
+	"plateaujeu.h"
+	"jeu.h"
+
+1491494716 source:c:\users\uza\desktop\othellov3\menu.cpp
+	"jeu.h"
+	"plateaujeu.h"
+
+1491478203 source:c:\users\uza\desktop\othellov3\pion.cpp
+	"pion.h"
+
+1491580756 source:c:\users\uza\desktop\othellov3\plateaujeu.cpp
+	"plateaujeu.h"
+
