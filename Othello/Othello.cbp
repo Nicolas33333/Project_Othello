@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Menu.cpp" />
 		<Unit filename="console.cpp" />
 		<Unit filename="console.h" />
 		<Unit filename="jeu.cpp" />
@@ -39,6 +40,8 @@
 		<Unit filename="main.cpp" />
 		<Unit filename="pion.cpp" />
 		<Unit filename="pion.h" />
+		<Unit filename="plateaujeu.cpp" />
+		<Unit filename="plateaujeu.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -3,36 +3,27 @@
 
 #include <stdio.h>
 #include <fstream>
-#include "Plateau.h"
+#include <windows.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include "plateaujeu.h"
 #include "console.h"
-
-
-#define HAUT 205
-#define BAS 205
-#define GAUCHE 186
-#define DROIT 186
-#define HAUTGAUCHE 201
-#define HAUTDROIT 187
-#define BASGAUCHE 200
-#define BASDROIT 188
-#define VIDE 0
-#define CROIX 206
-#define DEMIBAS 203
-#define DEMIHAUT 202
-#define DEMIGAUCHE 204
-#define DEMIDROIT 185
 
 #define TOUCHEHAUT  56
 #define TOUCHEBAS  50
 #define TOUCHEGAUCHE  52
 #define TOUCHEDROITE  54
+#define ENTRER 13
 
 
-void menu();
+void menu(Console*pConsole);
+void debut(Console*pConsole);
+void jeu(Console*pConsole);
 void sauvegarder(int**tab);
 void recup_sauvegarde(int**tab);
-void initialiser_plateau(int**tab);
-void affichage(int**tab,Console*pConsole);
-void gestion_curseur(Console*pConsole,int &ligne, int &colonne);
+void initialiser_tableau(int**tab,Pion pions[NBPIONS]);
+void actualisertab(int **tab, Pion pions[NBPIONS],int ligne, int colonne);
+bool gestion_curseur(Console*pConsole,int &ligne, int &colonne, int**tab);
+void poserpions(Pion pions[NBPIONS], int ligne, int colonne, int**tab, int tour);
 
 #endif // JEU_H_INCLUDED
